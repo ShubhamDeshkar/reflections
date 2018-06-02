@@ -27,3 +27,10 @@ organized? How would branches help?
 	multiple logical changes, it is beter to change create a branch and
 	continue working towards it.
 
+How do the diagrams help you visualize the branch structure?
+
+	They help understand what commits are parents of which commits and which
+	commits are unreachable.
+
+
+
