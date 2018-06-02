@@ -11,3 +11,19 @@ What value do you think iy offers?
 	It offers a control over what to commit and what not to commit at once.
 	Before making a final commit it is better to upload it in the staging
 	area and keep working on those files unitl its ready to commit.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	In the staging area we can add only those files which presents one type
+	of logicacl change and then make a commit instead of committing the
+	whole project at once where not all the files change at one commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	When we want to try an experimental feature of the software or any
+	different version with one logical change may or may not be followed by
+	multiple logical changes, it is beter to change create a branch and
+	continue working towards it.
+
